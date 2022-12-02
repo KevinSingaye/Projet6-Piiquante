@@ -1,5 +1,8 @@
 # Projet6-Piiquante
 
+![Capture d’écran (123)](https://user-images.githubusercontent.com/75949789/205305959-ade55d0d-3eb4-42c7-8a16-03c673483d0d.png)
+
+
 This project consists of developing an API for a hot sauce review site. The technologies used are Node.js, Express and MongoDB
 
 ### Front end repository : https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6
