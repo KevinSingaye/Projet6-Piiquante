@@ -38,7 +38,7 @@ app.use((req, res, next) => {
 });
 
 // Routes
-app.use(helmet());
+app.use(helmet({ crossOriginResourcePolicy: false, }));
 app.use(mongoSanitize());
 app.use('/api/auth', userRoutes);
 app.use('/api/sauces', sauceRoutes);
